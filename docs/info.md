@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This is an exercise for the reader
+The design is generated with VGA playground with Logo template https://vga-playground.com/?preset=logo
 
 ## How to test
 
-Connect a monitor
+Connect a monitor to the VGA connector, you should check for a moving "Bonjour Terre!" on the monitor.
 
 ## External hardware
 
